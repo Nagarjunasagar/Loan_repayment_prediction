@@ -8,5 +8,5 @@
 ## Installation
 ## Usage
 ## Authors and Aknowledgements
-## Liceence
+## Licence
 ## Status of the Project
